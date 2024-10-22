@@ -1,20 +1,51 @@
-### Olá! Bem vindo(a) ao meu perfil.
+<h1 align="left">Olá!👋Bem vindo(a) ao meu perfil</h1>
 
-- 🌱 Atualmente estou estudando tudo sobre desenvolvimento Front-End
-- ⚡ Fato interessante: Me interesso por programação desde a época que tinha apenas um celular
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ederson-Ramos&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ederson-Ramos&layout=compact)](https://github.com/Ederson-Ramos/github-readme-stats)
+<p align="left">Meu nome é Ederson e estou cursando Análise e Desenvolvimento de Sistemas na Uninter e também estudando desenvolvimento front-end pela EBAC. Minha paixão é criar interfaces bonitas e funcionais, usando tecnologias requeridas pelo mercado. Sempre busco aprender algo novo e melhorar minhas habilidades para me tornar um desenvolvedor cada vez melhor e proporcionar interfaces agradáveis aos usuários. Amo a tecnologia e todas as etapas necessárias para fazer um software criar vida.</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Eder-Gif" height="140px" src="https://media.discordapp.net/attachments/1087639988478414870/1223930425945231481/0.1s.gif?ex=661ba509&is=66093009&hm=7c26b6ffa34b78a8df70535274bfeeb04ef9b95ac635c4e29613b89181089a84&=&width=602&height=602">
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">📚 Atualmente estou estudando tudo sobre desenvolvimento Front-End<br>🎯 Objetivo: Me tornar um desenvolvedor competente que trabalha pensando na satisfação do usuário<br>🎲 Fato interessante: Me interesso por programação desde a época que tinha apenas um celular</p>
+
+###
+
+<h2 align="left">Minhas habilidades</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-##
+###
 
-<div>
-  <a href="https://www.linkedin.com/in/ederson-ramos-91b64a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2 align="left">Onde me achar</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/eddo-ramos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
