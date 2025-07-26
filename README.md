@@ -1,8 +1,12 @@
-<h1 align="left">Olá!👋Bem vindo(a) ao meu perfil</h1>
+<h1>Olá!👋 Bem-vindo(a) ao meu perfil</h1>
+
+```js
+console.log("Pegue uma xícara de café e divirta-se, companheiro! 👨‍💻");
+```
 
 ###
 
-<p align="left">Meu nome é Ederson e estou cursando Análise e Desenvolvimento de Sistemas na Uninter e também estudando desenvolvimento front-end pela EBAC. Minha paixão é criar interfaces bonitas e funcionais, usando tecnologias requeridas pelo mercado. Sempre busco aprender algo novo e melhorar minhas habilidades para me tornar um desenvolvedor cada vez melhor e proporcionar interfaces agradáveis aos usuários. Amo a tecnologia e todas as etapas necessárias para fazer um software criar vida.</p>
+<p align="left">Meu nome é Ederson e estou cursando Análise e Desenvolvimento de Sistemas na Uninter e também estudando desenvolvimento front-end pela EBAC. Minha paixão é criar interfaces bonitas e funcionais, usando tecnologias exigidas pelo mercado. Sempre busco aprender algo novo e melhorar minhas habilidades para me tornar um desenvolvedor cada vez melhor e proporcionar interfaces agradáveis aos usuários. Amo a tecnologia e todas as etapas necessárias para dar vida a um software.</p>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<h2 align="left">Minhas habilidades</h2>
+<h2 align="left">⚙️ Minhas habilidades</h2>
 
 ###
 
@@ -47,5 +51,17 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">Minha atividade (PAC)</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ederson-Ramos/Ederson-Ramos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ederson-Ramos/Ederson-Ramos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ederson-Ramos/Ederson-Ramos/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
