@@ -6,7 +6,7 @@ console.log("Pegue uma xícara de café e divirta-se, companheiro! 👨‍💻")
 
 ###
 
-<p align="left">Meu nome é Ederson e estou cursando Análise e Desenvolvimento de Sistemas na Uninter e também estudando desenvolvimento front-end pela EBAC. Minha paixão é criar interfaces bonitas e funcionais, usando tecnologias exigidas pelo mercado. Sempre busco aprender algo novo e melhorar minhas habilidades para me tornar um desenvolvedor cada vez melhor e proporcionar interfaces agradáveis aos usuários. Amo a tecnologia e todas as etapas necessárias para dar vida a um software.</p>
+<p align="left">Meu nome é Ederson e estou cursando Análise e Desenvolvimento de Sistemas na Uninter, além de estudar desenvolvimento web pela EBAC. Tenho paixão por criar interfaces bonitas e funcionais no Front-End, e também por desenvolver a lógica que roda por trás das aplicações no Back-End. Busco sempre evoluir como desenvolvedor completo, aprendendo as tecnologias mais utilizadas no mercado e desenvolvendo soluções que entregam uma ótima experiência ao usuário.</p>
 
 ###
 
@@ -14,7 +14,7 @@ console.log("Pegue uma xícara de café e divirta-se, companheiro! 👨‍💻")
 
 ###
 
-<p align="left">📚 Atualmente estou estudando tudo sobre desenvolvimento Front-End<br>🎯 Objetivo: Me tornar um desenvolvedor competente que trabalha pensando na satisfação do usuário<br>🎲 Fato interessante: Me interesso por programação desde a época que tinha apenas um celular</p>
+<p align="left">📚 Atualmente estou estudando tanto o Front-End quanto o Back-End, com foco em me tornar um desenvolvedor Full Stack<br>🎯 Objetivo: Ser um profissional completo, entregando aplicações que encantem visualmente e funcionem perfeitamente<br>🎲 Fato interessante: Meu interesse por programação começou com um simples celular, e desde então nunca mais parei</p>
 
 ###
 
