@@ -49,5 +49,5 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
 <h2 align="left">🤝 Me Contate</h2>
 
 <a href="https://www.linkedin.com/in/eddo-ramos">
-  <img width="200" alt="Icon LinkedIn" src="https://github.com/user-attachments/assets/7df56b39-486d-4106-ac8d-b0d2d24b1506"/>
+  <img width="100" alt="Icon LinkedIn" src="https://github.com/user-attachments/assets/7df56b39-486d-4106-ac8d-b0d2d24b1506"/>
 </a>
