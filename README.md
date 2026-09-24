@@ -26,9 +26,22 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
   <b>Dev:</b>
 </h3>
 
+<img width="100" alt="Icon Figma" src="https://github.com/user-attachments/assets/201020a7-41ab-47b2-a1ee-60286f7a1454" />
+<img width="100" alt="Icon Git" src="https://github.com/user-attachments/assets/add49759-c80c-4074-b9ec-aa32410b2b02" />
+<img width="100" alt="Icon HTML" src="https://github.com/user-attachments/assets/72610988-880c-4bd7-b5d1-14735bfc60a0" />
+<img width="100" alt="Icon CSS" src="https://github.com/user-attachments/assets/cec00087-9911-4c14-b41d-ad5e46402a20" />
+<img width="100" alt="Icon JavaScript" src="https://github.com/user-attachments/assets/2c522ade-1448-40f4-b331-fa172705067d" />
+<img width="100" alt="Icon TypeScript" src="https://github.com/user-attachments/assets/8ecd784a-0a14-404c-b1a7-ec585c06ff46" />
+<img width="100" alt="Icon Angular" src="https://github.com/user-attachments/assets/db4f3d4f-ad46-4fe2-a9b3-39d9188f9dfa" />
+<img width="100" alt="Icon Bootstrap" src="https://github.com/user-attachments/assets/41736269-ed6f-47c0-85a8-9ccca773369c" />
+<img width="100" alt="Icon Node" src="https://github.com/user-attachments/assets/9cb4026e-0041-44a4-8b2b-e07aeeb3c88b" />
+<img width="100" alt="Icon Java" src="https://github.com/user-attachments/assets/d5b6a3e0-95ea-4a00-b5f8-13a1aed97ce8" />
+
 <h3>
   <b>Dados:</b>
 </h3>
+
+<img width="100" alt="Icon Postgresql" src="https://github.com/user-attachments/assets/41ce40a2-3052-4e5d-addd-cdcdd2df7f95" />
 
 <h2 align="left">Um pouco mais sobre mim</h2>
 
