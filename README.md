@@ -48,6 +48,6 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eddo-ramos">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="Icon LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" alt="Icon LinkedIn"/>
   </a>
 </p>
