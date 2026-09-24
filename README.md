@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/dd/5f/da/dd5fda8142d5072882a9fc1857e3ee00.jpg" alt="Banner do perfil">
-</p>
+<img align="center" src="https://i.pinimg.com/1200x/dd/5f/da/dd5fda8142d5072882a9fc1857e3ee00.jpg" alt="Banner do perfil">
 
-<h2 align="left">Opa! Eu sou o Eder 👋</h2>
+<h2 align="left">Opa! Eu sou o Eder! 👋</h2>
 
 ```js
-console.log("Pegue uma xícara de café e divirta-se, companheiro! 👨‍💻");
+console.log("Bem-vindo(a) e se aconchegue, companheiro(a) 👨‍💻");
 ```
 
 <h2 align="left">🧑🏻 Sobre Mim</h2>
