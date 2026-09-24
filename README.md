@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SEU_BANNER_AQUI" alt="Banner do perfil">
+  <img src="https://i.pinimg.com/1200x/dd/5f/da/dd5fda8142d5072882a9fc1857e3ee00.jpg" alt="Banner do perfil">
 </p>
 
 <h2 align="left">Opa! Eu sou o Eder 👋</h2>
