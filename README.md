@@ -66,10 +66,10 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
 
 <ul>
   <li>
-    <b>Dias atuais:</b> Atualmente estou estudando tanto o Front-End quanto o Back-End, com foco em me tornar um desenvolvedor Full Stack;
+    <b>Dias atuais:</b> Atualmente trabalho com Dados e estudo tanto o Front-End quanto o Back-End, com foco em me tornar um desenvolvedor Full Stack;
   </li>
   <li>
-    <b>Objetivo:</b> Ser um profissional completo, entregando aplicações que encantem visualmente e funcionem perfeitamente;
+    <b>Objetivo:</b> Ser um profissional completo, entregando aplicações que encantem visualmente, funcionem perfeitamente e com dados confiáveis;
   </li>
   <li>
     <b>Fato interessante:</b> Meu interesse por programação começou com um simples celular, e desde então nunca mais parei.
