@@ -1,9 +1,9 @@
 <img align="center" src="https://i.pinimg.com/1200x/dd/5f/da/dd5fda8142d5072882a9fc1857e3ee00.jpg" alt="Banner do perfil">
 
-<h1 align="center">Opa! Eu sou o Eder! 👋</h2>
+<h1 align="center">Opa! Eu sou o Eder! 👋</h1>
 
-```js
-console.log("Bem-vindo(a) e se aconchegue, companheiro(a) 👨‍💻");
+```python
+print('Bem-vindo(a) e se aconchegue, companheiro(a) 👨‍💻');
 ```
 
 <h2>🧑🏻 Sobre mim</h2>
@@ -60,13 +60,13 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
 &nbsp;
 <img width="50" alt="Icon Spark" src="https://github.com/user-attachments/assets/5f9d4fbd-1db5-4e43-a5bb-b84077a0bcde" />
 &nbsp;
-<img width="50" alt="Icon DataBricks" src="https://github.com/user-attachments/assets/af7d3c13-e563-48a7-b727-cc29afbe585d" />
+<img width="50" alt="Icon Databricks" src="https://github.com/user-attachments/assets/af7d3c13-e563-48a7-b727-cc29afbe585d" />
 
 <h2>💭 Um pouco mais sobre mim</h2>
 
 <ul>
   <li>
-    <b>Dias atuais:</b> Atualmente trabalho com Dados e estudo tanto o Front-End quanto o Back-End, com foco em me tornar um desenvolvedor Full Stack;
+    <b>Dias atuais:</b> Atualmente trabalho com Dados e estudo tanto o Front-End quanto o Back-End;
   </li>
   <li>
     <b>Objetivo:</b> Ser um profissional completo, entregando aplicações que encantem visualmente, funcionem perfeitamente e com dados confiáveis;
