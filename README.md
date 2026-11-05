@@ -61,6 +61,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, unindo a criatividade, a
 <img width="50" alt="Icon Spark" src="https://github.com/user-attachments/assets/5f9d4fbd-1db5-4e43-a5bb-b84077a0bcde" />
 &nbsp;
 <img width="50" alt="Icon Databricks" src="https://github.com/user-attachments/assets/af7d3c13-e563-48a7-b727-cc29afbe585d" />
+&nbsp;
+<img width="50" alt="Icon Excel" src="https://github.com/user-attachments/assets/902b51e0-5795-4db9-a46c-cce33a64caad" />
 
 <h2>💭 Um pouco mais sobre mim</h2>
 
